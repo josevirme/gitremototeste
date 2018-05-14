@@ -1,3 +1,4 @@
 teste de conteudo
 segundo conteudo...
 linha criada na b_bug
+criado a linha 4 na b_bug
